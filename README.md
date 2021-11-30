@@ -8,4 +8,4 @@ description: Breaking the coding interview and algorithm problems.
 Learn. Share. and Do.
 {% endhint %}
 
-****
+For mastering the data structure and algorithm problems.&#x20;
