@@ -1,19 +1,11 @@
 ---
-description: A coding practice place
+description: Breaking the coding interview and algorithm problems.
 ---
 
 # X Algorithm
 
 {% hint style="info" %}
-**Welcome**
+Learn. Share. and Do.
 {% endhint %}
 
-{% hint style="info" %}
 ****
-{% endhint %}
-
-
-
-{% hint style="info" %}
-
-{% endhint %}
