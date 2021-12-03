@@ -17,3 +17,23 @@ var twoSum = function(nums, target) {
     }
 };
 ```
+
+
+
+Use HashMap
+
+```javascript
+function twoSum(nums, target) {
+    vToIndex = {};
+    
+    for (let i =0; i< nums.length; i++) {
+        let tmpTarget = target - nums[i];
+        
+        if (tmpTarget in vToIndex) {
+            return [i, vToIndex[tmpTarget]];
+        } else {
+            vToIndex[nums[i]] = i;
+        }
+    }
+}
+```

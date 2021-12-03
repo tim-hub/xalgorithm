@@ -2,10 +2,10 @@
 description: Breaking the coding interview and algorithm problems.
 ---
 
-# X Algorithm
+# 😀 X Algorithm
 
 {% hint style="info" %}
 Learn. Share. and Do.
 {% endhint %}
 
-For mastering the data structure and algorithm problems.&#x20;
+For mastering the data structure and algorithm problems.
